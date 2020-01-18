@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.marinas.wiki.tests.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-18T18:50:52" hostname="LAPTOP-TE88LQFD" time="14.05">
+  <properties/>
+  <testcase name="validLogin" classname="com.marinas.wiki.tests.LoginTest" time="14.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
